@@ -5,7 +5,7 @@
 | Service | Link |
 |---|---|
 | API Docs | [Open Swagger Docs](https://multitanatsaas-production.up.railway.app/docs) |
-| Health Check | [Check Status](https://multitanantsaas-production.up.railway.app/health) |
+
 
 FastAPI backend for a multi-tenant study-library management SaaS. Organizations manage library branches, staff, students, batches, attendance, and fee collection. A separate platform-admin surface manages customer organizations and subscription plans.
 
